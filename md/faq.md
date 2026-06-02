@@ -2,7 +2,7 @@
 title: BingX API FAQ
 source: BingX Official API Documentation
 languages: zh-TW, en
-updated: 2026-05-27
+updated: 2026-06-02
 ---
 
 # BingX API FAQ
