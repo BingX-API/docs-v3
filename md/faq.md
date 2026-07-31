@@ -2,7 +2,7 @@
 title: BingX API FAQ
 source: BingX Official API Documentation
 languages: zh-TW, en
-updated: 2026-07-29
+updated: 2026-07-31
 ---
 
 # BingX API FAQ
@@ -134,7 +134,7 @@ BingX有接口限頻、交易限制、網絡防火牆限制三種風控策略，
 
 交易限制：交易行為是根據普通用戶的交易行為進行評估，如果您的交易行為與普通用戶的行為偏離較遠，可能會被禁止交易，禁止時長不定。假設出現以下狀況時您的禁止交易時長會增加：
 
-1. 總是頻繁占據買一賣一價；
+1. 總是頻繁佔據買一賣一價；
 
 2. 頻繁掛單/撤單，且沒有任何成交；
 
